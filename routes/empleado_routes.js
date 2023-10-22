@@ -17,22 +17,20 @@ import {
  *              type: object
  *              properties:
  *                  id:
- *                      type: integer
+ *                      type: INTEGER
  *                  nombre:
- *                      type: string
+ *                      type: STRING
  *                  telefono:
- *                      type: string
+ *                      type: STRING
  *                  email:
- *                      type: string
+ *                      type: STRING
  *                  edad:
- *                      type: integer
+ *                      type: INTEGER
  *              example:
  *                  nombre: Juan
  *                  telefono: 111111111
  *                  email: prueba@email.com
  *                  edad: 25
- *
- *
  */
 
 /**

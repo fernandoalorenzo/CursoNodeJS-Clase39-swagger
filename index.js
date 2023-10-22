@@ -33,8 +33,8 @@ const PORT = 10000;
 const dbConfig = {
 	host: "localhost",
 	user: "root",
-	password: "",
-	database: "cursonode2023",
+	password: "",			
+	database: "cursonode2023",		//* Nombre de la base de datos
 };
 
 app.use(express.json());
