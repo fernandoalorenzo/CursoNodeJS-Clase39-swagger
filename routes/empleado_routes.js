@@ -163,6 +163,6 @@ router.put("/empleados/:id", updateEmpleadoById);
 */
 
 
-router.delete("/empleados/:id", deleteEmpleadoById);
+router.delete("/empleados/:id", deleteEmpleadoById); 
 
 export default router;
