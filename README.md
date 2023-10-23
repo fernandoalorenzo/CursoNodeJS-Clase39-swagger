@@ -9,6 +9,8 @@ Tenés que tener instalado antes de ejecutar la aplicación:
 - npm
 - MySQL
 
+Crear una base datos en MySql llamada cursonode2023 o importar el archivo cursonode2023.sql desde tu admnistrador de base de datos
+
 Para instalar las dependencias, tenés que situarte en la carpeta del proyecto y usa el siguiente comando:
 
 npm install
