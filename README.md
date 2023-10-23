@@ -13,7 +13,7 @@ Para instalar las dependencias, tenés que situarte en la carpeta del proyecto y
 
 npm install
 
-## Archivo empleados_routes.js
+## Archivo empleado_routes.js
 
 Este archivo define las rutas de la aplicación para gestionar empleados.
 
